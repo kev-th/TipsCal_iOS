@@ -2,7 +2,7 @@
 
 **TipsCal** is a tip calculator application for iOS.
 
-Submitted by: **Kevin Thaw*
+Submitted by: **Kevin Thaw**
 
 Time spent: **2** hours spent in total
 
